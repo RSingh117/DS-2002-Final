@@ -1,0 +1,2 @@
+# DS-2002-Final
+This repository contains my submission for the DS2002 Capstone Project. The batch folder contains the JSON and CSV files used to interface with filesystem tables through databricks, while the stream folder contains the data that is fed to the bronze-gold-silver architecture. Lastly, the Databricks notebook contains all the code required to interface with Azure MySQL, MongoDB, and the DBFS filesystem so that the dimension and fact tables can be populated, allowing us to analyze streamed data.
